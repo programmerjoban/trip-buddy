@@ -1,16 +1,17 @@
-# Topics in Software Engineering
+# Trip Buddy 
 
-This is a template repository for the topics in software engineering class I teach at CCNY.
-It comes with a pre-configured devcontainer that includes most of the tools you'll need during this semester. 
-If you start with this repository as a template you will have a ready to go development environment that you'll be able to 
-share with your team mates. Additionally, a demo github action workflow has been setup to help you with your first assignment.
+## Description
 
-# Tools
-The tools that are installed with this devcontainer are:
+The Trip Buddy is a web application designed to connect individuals with similar travel plans, providing a platform for users to find travel companions for carpooling or shared trips. Whether you're planning a road trip, commuting, or attending an event, this application aims to make your journey more enjoyable and cost-effective by connecting you with like-minded travelers heading in the same direction.
 
-* act which allows you to run GitHub Actions in the local development environment.
-* terraform which lets you automate infrastructure provisioning
-* aws cli for interacting with AWS environment.
+## Problem Statement
 
-# For Students
-If you are a student in the class you can create a new repository using this template. Once you've created a repository of your own replace the content of this file with the description or you project idea.
+In today's fast-paced world, finding compatible travel companions can be challenging. Solo travelers often face inefficiencies and increased costs when embarking on similar journeys. The Trip Buddy solves this problem by offering a convenient way for users to connect with others traveling to the same destination, fostering a sense of community and resource optimization.
+
+## Primary User
+
+The primary users of this application are individuals looking for travel companions for various purposes, such as daily commuting, road trips, or attending events. Whether you're a frequent traveler seeking cost-sharing opportunities or someone who prefers the company during journeys, the Trip Buddy caters to a diverse audience looking to enhance their travel experiences.
+
+BY: Jobanpreet Singh
+Professor: Nikolai Avteniev
+CSC-456 CCNY Spring 2024
